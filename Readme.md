@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Squidly1408/Strocoge/refs/heads/main/Strocoge%20-%20Dark_with_text.png)
+![Strocoge Banner](./.github/banner.png)
 
 # Strocoge
 [Changes Document](https://1drv.ms/w/c/f6929fc1ab5f8e55/EWfcislCz9dPv_-Aw0zqIQwBIr0RZadkHSWK1J_hXy8kGQ?e=R2Qkmp)
